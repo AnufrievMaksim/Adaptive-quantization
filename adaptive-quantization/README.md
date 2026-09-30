@@ -9,7 +9,7 @@
 ## Структура
 - `arduino/main.ino` — код для Arduino Uno
 - `pc/main.c` — код для ПК (Visual Studio)
--`docs/vkr_adaptive_quantization.pdf` — выпускная квалификационная работа
+- `docs/vkr_adaptive_quantization.pdf` — выпускная квалификационная работа
 
 ## Реализация
 - Arduino Uno
